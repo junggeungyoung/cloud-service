@@ -1,0 +1,8 @@
+1교시
+3주차 리뷰
+
+2교시
+master branch를 main branch로 변경
+
+원격 리포지토리
+
