@@ -6,3 +6,10 @@ git/github 충돌해결 ot
 
 깃 명령어
 git log --oneline
+
+
+2교시
+
+git 명령어
+git fetch
+git pull
