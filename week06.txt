@@ -17,4 +17,6 @@ git log --oneline
 git 명령어
 git fetch
 git pull
+git log --oneline --graph
 
+week06.txt 파일 수동 conflict 해결
